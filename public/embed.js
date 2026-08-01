@@ -1,6 +1,6 @@
 (function () {
   // Your Base44 app URL
-  const APP_URL = "https://snobbish-print-quote-flow.base44.app";
+  const APP_URL = "https://snobbish-print-quote-flow.base44.app/embed";
 
   // Initialize the viewer embed
   function initViewer() {
